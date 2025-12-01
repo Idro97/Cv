@@ -1,0 +1,89 @@
+
+header {
+  background-color: rgb(82, 105, 82);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.Titel {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  font-style:Italic;
+  font-weight: bold;
+}
+
+.jag {
+  max-width: 20%;
+  max-height: 28%;
+  position: absolute;
+  top: 1%;
+  left: 80%;
+  border-radius: 200px;
+  min-width: 10%;
+  min-height: 10%;
+}
+
+.Information {
+  display:flex;
+  gap: 10px;
+}
+
+.Profil p {
+  font-weight:600;
+  font-family:arial;
+  font-size: 18px;
+  line-height: 1.6;
+  width: 33.33vw;
+  
+}
+
+.Exp h2  {
+  font-size: 26px;
+  font-family: arial;
+  font-weight: 600;
+  line-height: 1.6;
+  width: 33.33vw;
+}
+
+.Utbildning li, .Utbildning h2
+{
+  font-size: 20px;
+  font-family: arial;
+  font-weight: 600;
+  line-height: 1.6;
+
+  
+}
+
+.Kontakt {
+  
+  font-size: 16px;
+  font-family: arial;
+  line-height: 1.6;
+  font-weight:lighter;
+}
+.Kontakt li {
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.Color {
+  background-color: beige
+}
+details {
+  width: 33.33vw;
+  font-size:30px;
+  
+}
+summary {
+  cursor:pointer;
+}
+
+.LinkedIn {
+  width:10vw;
+  border-radius: 5vw;
+  max-width: 80px;
+  min-width: 30px;
+  height: auto;
+}
